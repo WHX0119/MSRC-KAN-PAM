@@ -9,6 +9,7 @@
 ## Operating environment
 * Python 3.8.13
 * PyTorch 1.13.1
+* numpy  1.22.0 (If you get an error when saving data, try lowering your numpy version!)
 * and other necessary libs
 
 ## Datasets
