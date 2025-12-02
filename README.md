@@ -24,7 +24,7 @@
 * `utils` contians logger and train&val&test&visualize process
 
 ## Guide
-* You need to download the datasets in above link at first, and put them in the `data` folder, Then run in `args_diagnosis.py`
-<br> Pay attention to that if you want to run the data pre-processing and save the results of data preprocessing, you need set --save_dataset to True;
-<br> or you can just the results of data preprocessing, you need set --save_dataset to False.
+* You need to download the datasets in above link at first, and put them in the `data` folder.
+<br> Pay attention to that if you want to run the data pre-processing and save the results of data preprocessing, set --save_dataset to True;
+<br> or you can only load the results of data preprocessing, set --save_dataset to False, Then run in `args_diagnosis.py`.
 * You can also choose the modules or adjust the parameters of the model to suit your needs.
