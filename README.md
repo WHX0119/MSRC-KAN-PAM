@@ -11,3 +11,9 @@
 ## Datasets
 * [Case study 1: HUST bearing](https://github.com/CHAOZHAO-1/HUSTbearing-dataset)
 * [Case study 2: WT-Planetary gearbox](https://github.com/Liudd-BJUT/WT-planetary-gearbox-dataset)
+
+## Pakages
+* `data` needs loading the Datasets in above links
+* `datasets` contians the pre-processing process for the data
+* `models` contians 8 methods including the proposed method
+* `utils` contians logger & train_val_test_visualize process
