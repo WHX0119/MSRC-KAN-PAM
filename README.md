@@ -21,4 +21,11 @@
 * `datasets` contians the pre-processing process for the data
 * `efficient_kan` an efficient implementation of KAN: https://github.com/Blealtan/efficient-kan
 * `models` contians 8 methods including the proposed method
-* `utils` contians logger & train_val_test_visualize process
+* `utils` contians logger and train&val&test&visualize process
+
+## Guide 
+* `train_val_test_visualize.py` is the train&val&test&visualize process of all methods.
+* You need to load the data in above Datasets link at first, and put them in the `data` folder. Then run in `args_diagnosis.py`
+<br> Pay attention to that if you want to run the data pre-process, you need to load [Case study 1] and [Case study 2] in Datasets,
+<br> and set --save_dataset (in `args_diagnosis.py`) to True; or you can just load the [Save dataset](https://drive.google.com/file/d/10XQDVN9YqbM7--X3dB55Io1eRLsLmruI/view?usp=sharing), and set --save_dataset to False.
+* You can also choose the modules or adjust the parameters of the model to suit your needs.
