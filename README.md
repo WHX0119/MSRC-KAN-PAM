@@ -26,5 +26,5 @@
 ## Guide
 * You need to download the datasets in above link at first, and put them in the `data` folder.
 <br> For each subdataset, set --save_dataset to True at first to run the data pre-processing and save the results of data preprocessing;
-<br> Then, set --save_dataset to False to run the train&val&test&visualize.
+<br> Then, set --save_dataset to False to run the train&val&test&visualize process.
 * You can also choose the modules or adjust the parameters of the model to suit your needs.
