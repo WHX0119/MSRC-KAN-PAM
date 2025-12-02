@@ -6,6 +6,11 @@
 <img src="https://github.com/WHX0119/MSRC-KAN-PAM/blob/main/framework.jpg" width="600" />
 </div>
 
+## Operating environment
+* Python 3.8.13
+* PyTorch 1.13.1
+* and other necessary libs
+
 ## Datasets
 * [Case study 1: HUST bearing](https://github.com/CHAOZHAO-1/HUSTbearing-dataset)
 * [Case study 2: WT-Planetary gearbox](https://github.com/Liudd-BJUT/WT-planetary-gearbox-dataset)
