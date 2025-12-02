@@ -2,8 +2,6 @@
 * Core codes for the paper:
 <br> MSRC-KAN-PAM: A new interpretable rotating machinery fault diagnosis framework
 
-* This repository uses an efficient implementation of KAN: https://github.com/Blealtan/efficient-kan
-
 <div align="center">
 <img src="https://github.com/WHX0119/MSRC-KAN-PAM/blob/main/framework.jpg" width="600" />
 </div>
@@ -15,5 +13,6 @@
 ## Pakages
 * `data` needs loading the Datasets in above links
 * `datasets` contians the pre-processing process for the data
+* `efficient_kan` an efficient implementation of KAN: https://github.com/Blealtan/efficient-kan
 * `models` contians 8 methods including the proposed method
 * `utils` contians logger & train_val_test_visualize process
