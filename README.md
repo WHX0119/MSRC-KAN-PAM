@@ -1,2 +1,3 @@
 # MSRC-KAN-PAM
-MSRC-KAN-PAM: A new interpretable rotating machinery fault diagnosis framework
+* Core codes for the paper:
+<br> MSRC-KAN-PAM: A new interpretable rotating machinery fault diagnosis framework
