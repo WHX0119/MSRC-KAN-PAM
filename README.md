@@ -5,7 +5,7 @@
 * This repository uses an efficient implementation of KAN: https://github.com/Blealtan/efficient-kan
 
 <div align="center">
-<img src="https://github.com/yanshen0210/LiConvFormer-a-lightweight-fault-diagnosis-framework/blob/main/framework.jpg" width="600" />
+<img src="https://github.com/WHX0119/MSRC-KAN-PAM/blob/main/framework.jpg" width="600" />
 </div>
 
 ## Datasets
